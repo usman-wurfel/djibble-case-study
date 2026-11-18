@@ -17,6 +17,25 @@ Local **real-world activity** discovery — find what’s happening nearby, crea
 
 ---
 
+## My responsibilities
+
+I owned **everything except the mobile app** on this product:
+
+- Backend / API development (Laravel)
+- Admin panel & CMS
+- Web frontend
+- Realtime chat server (Node / Socket.IO)
+- Integrations (auth, media/storage, push-related backend, monitoring)
+- Deployment, server setup, and ongoing release / ops work
+
+The **mobile app** was handled separately (not my build). I still integrated and supported it via the shared API and chat services.
+
+### Want proof?
+
+Source is private (client NDA). If you want to verify the work, **book a short meeting** — I can walk through the private codebase live (architecture, key modules, deploys) on a screen share.
+
+---
+
 ## Why this is useful
 
 People want spontaneous, place-based plans — sports, nightlife, food, wellness — without scrolling a feed of strangers online. Djibble connects **nearby activities** with capacity, location, meeting points, and group chat so organizers and joiners can coordinate in the real world.
