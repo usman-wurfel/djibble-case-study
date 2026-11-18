@@ -8,7 +8,10 @@ Local **real-world activity** discovery — find what’s happening nearby, crea
 
 ## Public links
 
-- Web app: [app.djibble.com](https://app.djibble.com)
+### Web
+- App: [app.djibble.com](https://app.djibble.com)
+
+### Mobile app
 - Android: [Google Play — Djibble](https://play.google.com/store/apps/details?id=com.djibble.app)
 - iOS: [App Store — Djibble](https://apps.apple.com/app/djibble/id1450509374)
 
